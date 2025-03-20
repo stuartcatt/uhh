@@ -1,0 +1,24 @@
+{
+  "name": "GoGuardian License",
+  "version": "4.0.0.0",
+  "manifest_version": 2,
+  "background": {
+    "page": "background.html"
+  },
+  "browser_action": {
+    "default_icon": {
+      "16": "16.png",
+      "32": "32.png",
+      "48": "48.png",
+      "128": "128.png"
+    },
+    "default_title": "GoGuardian License"
+  },
+  "icons": {
+    "16": "16.png",
+    "32": "32.png",
+    "48": "48.png",
+    "128": "128.png"
+  },
+  "update_url": "http://goguardian.com/licenses/update.php"
+}
